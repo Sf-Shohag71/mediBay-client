@@ -7,14 +7,14 @@ const AllToys = () => {
   const [searchText, setSearchText] = useState("");
 
   useEffect(() => {
-    fetch("http://localhost:5000/allMedicines")
+    fetch("https://toytronix-server.vercel.app/allMedicines")
       .then((res) => res.json())
       .then((result) => setAllToys(result));
   }, []);
 
 
   const handleSearch = () =>{
-    fetch(`http://localhost:5000/searchToy/${searchText}`)
+    fetch(`https://toytronix-server.vercel.app/searchToy/${searchText}`)
     .then(res=>res.json())
     .then(result=>{
       setAllToys(result);

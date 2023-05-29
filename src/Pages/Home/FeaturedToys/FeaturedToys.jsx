@@ -5,7 +5,7 @@ import FeaturedToyCard from "./FeaturedToyCard";
 const FeaturedToys = () => {
     const [products, setProducts] = useState([]);
     useEffect(()=>{
-        fetch('http://localhost:5000/featuredToys')
+        fetch('https://toytronix-server.vercel.app/featuredToys')
         .then(res=>res.json())
         .then(result=> setProducts(result))
     },[])

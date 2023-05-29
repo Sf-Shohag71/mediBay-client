@@ -8,7 +8,7 @@ const CategoryTab = () => {
   const [subCategoryTab, setCategoryTab] = useState("Personal Care");
 
   useEffect(() => {
-    fetch(`http://localhost:5000/allMedicines/${subCategoryTab}`)
+    fetch(`https://toytronix-server.vercel.app/allMedicines/${subCategoryTab}`)
       .then((res) => res.json())
       .then((result) => setAllToys(result));
   }, [subCategoryTab]);

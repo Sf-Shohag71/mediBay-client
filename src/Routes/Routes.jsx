@@ -46,7 +46,7 @@ const router = createBrowserRouter([
       {
         path: "/medicine/:id",
         element: <PrivateRoute><ToyDetails></ToyDetails></PrivateRoute>,
-        loader: ({ params }) => fetch(`http://localhost:5000/medicine/${params.id}`)
+        loader: ({ params }) => fetch(`https://toytronix-server.vercel.app/medicine/${params.id}`)
       },
       {
         path: "/myMedicines",
@@ -55,13 +55,13 @@ const router = createBrowserRouter([
       {
         path: "/updateToy/:id",
         element: <UpdateToy></UpdateToy>,
-        loader: ({params})=>fetch(`http://localhost:5000/updateToy/${params.id}`)
+        loader: ({params})=>fetch(`https://toytronix-server.vercel.app/updateToy/${params.id}`)
       },
       {
         path: "/featuredToy/:id",
         element: <PrivateRoute><FeaturedToyDetails></FeaturedToyDetails></PrivateRoute>,
         loader: ({ params }) =>
-          fetch(`http://localhost:5000/featuredToy/${params.id}`),
+          fetch(`https://toytronix-server.vercel.app/featuredToy/${params.id}`),
       },
     ],
   },
