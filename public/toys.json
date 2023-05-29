@@ -1,0 +1,147 @@
+[
+  {
+    "name": "Superman",
+    "category": "Superheroes",
+    "sub_category": "DC Comics",
+    "picture": "https://i.ibb.co/23L2qXG/superman-532920-640.jpg",
+    "price": 19.99,
+    "ratings": 4.5
+  },
+  {
+    "name": "Batman Deluxe",
+    "category": "Superheroes",
+    "sub_category": "DC Comics",
+    "picture": "https://i.ibb.co/HKCLM7N/batman-3351414-640.jpg",
+    "price": 29.99,
+    "ratings": 4.8
+  },
+  {
+    "name": "Iron Man Mark",
+    "category": "Superheroes",
+    "sub_category": "Marvel Comics",
+    "picture": "https://i.ibb.co/YWs2fDt/superhero-712060-640.jpg",
+    "price": 24.99,
+    "ratings": 4.8
+  },
+  {
+    "name": "Spider-Man",
+    "category": "Superheroes",
+    "sub_category": "Marvel Comics",
+    "picture": "https://i.ibb.co/mTwnM73/spiderman-4008954-640.jpg",
+    "price": 19.99,
+    "ratings": 4.5
+  },
+  {
+    "name": "Darth Vader",
+    "picture": "https://i.ibb.co/41BT4Ts/star-wars-1386790-640.png",
+    "category": "Superheroes",
+    "sub_category": "Star Wars",
+    "price": 29.99,
+    "ratings": 4.8
+  },
+  {
+    "name": "Luke Skywalker",
+    "picture": "https://i.ibb.co/Cz3j5Mv/minion-2201004-640.jpg",
+    "category": "Superheroes",
+    "sub_category": "Star Wars",
+    "price": 24.99,
+    "ratings": 4.6
+  },
+  {
+    "name": "Optimus Prime",
+    "category": "Movie & TV Characters",
+    "sub_category": "Transformers",
+    "picture": "https://i.ibb.co/nsB9f0k/optimus-prime-7269343-640.jpg",
+    "price": 49.99,
+    "ratings": 4.5
+  },
+  {
+    "name": "Bumblebee",
+    "category": "Movie & TV Characters",
+    "sub_category": "Transformers",
+    "picture": "https://i.ibb.co/m60swh7/bumblebee-6989229-640.jpg",
+    "price": 29.99,
+    "ratings": 4.3
+  },
+  {
+    "name": "Harry Potter",
+    "picture": "https://i.ibb.co/bbp1zVQ/harry-potter-388256-640.jpg",
+    "category": "Movie & TV Characters",
+    "sub_category": "Harry Potter",
+    "price": 24.99,
+    "ratings": 4.8
+  },
+  {
+    "name": "Hermione Granger",
+    "picture": "https://i.ibb.co/Xkb2Qgm/hermione-2878208-640.jpg",
+    "category": "Movie & TV Characters",
+    "sub_category": "Harry Potter",
+    "price": 29.99,
+    "ratings": 4.7
+  },
+  {
+    "name": "Naruto Uzumaki",
+    "picture": "https://i.ibb.co/ZKhTbmP/marcos-ferreira-QYBVbw-JYx-NA-unsplash.jpg",
+    "category": "Movie & TV Characters",
+    "sub_category": "Anime",
+    "price": 24.99,
+    "ratings": 4.8
+  },
+  {
+    "name": "Goku Super Saiyan",
+    "picture": "https://i.ibb.co/RpVWpwz/boukaih-2-Asf-Ya-YTbp-I-unsplash.jpg",
+    "category": "Movie & TV Characters",
+    "sub_category": "Anime",
+    "price": 29.99,
+    "ratings": 4.7
+  },
+
+  {
+    "name": "Elsa Frozen",
+    "picture": "https://i.ibb.co/bPFfPCJ/z-graphica-a-UYcx0-CEZW0-unsplash.jpg",
+    "category": "Disney",
+    "sub_category": "Frozen",
+    "price": 24.99,
+    "ratings": 4.8
+  },
+  {
+    "name": "Anna Frozen",
+    "picture": "https://i.ibb.co/SNzXQWY/young-3892631-640.jpg",
+    "category": "Disney",
+    "sub_category": "Frozen",
+    "price": 29.99,
+    "ratings": 4.7
+  },
+  {
+    "name": "Woody",
+    "picture": "https://i.ibb.co/3C1S901/toy-2207781-640.jpg",
+    "category": "Disney",
+    "sub_category": "Toy Story",
+    "price": 24.99,
+    "ratings": 4.8
+  },
+  {
+    "name": "Buzz Lightyear",
+    "picture": "https://i.ibb.co/3zpf1kN/buzz-lightyear-717315-640.jpg",
+    "category": "Disney",
+    "sub_category": "Toy Story",
+    "price": 29.99,
+    "ratings": 4.7
+  },
+  {
+    "name": "Cinderella",
+    "picture": "https://i.ibb.co/54JVVg7/park-troopers-ACv87k-Yoo-QQ-unsplash.jpg",
+    "category": "Disney",
+    "sub_category": "Disney Princess",
+    "price": 24.99,
+    "ratings": 4.8
+  },
+  {
+    "name": "Belle Collectible",
+    "picture": "https://i.ibb.co/yS344Pq/victor-serban-JE11q-Bw-V2-Ec-unsplash.jpg",
+    "category": "Disney",
+    "sub_category": "Disney Princess",
+    "price": 29.99,
+    "ratings": 4.7
+  }
+]
